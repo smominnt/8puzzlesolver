@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedMethodsMode_SELECTION_FLAG">Puzzle,regularH,()I Puzzle,&lt;init&gt;,([[I)V Puzzle,moveableDirection,(I)Z Puzzle,getZeroLocX,()I Puzzle,getZeroLocY,()I Puzzle,shuffle,()I Puzzle,&lt;init&gt;,()V Puzzle,print,()V SolvePuzzle,main,([Ljava/lang/String;)V Puzzle,manhattan,()I Puzzle,movePiece,(I)Z SolvePuzzle,&lt;init&gt;,(LPuzzle;)V Puzzle,copyPuzzle,([[I)[[I Puzzle,&lt;init&gt;,(LPuzzle;)V </entry>
+<entry key="ACTIVATED_FEATURES">#org.netbeans.modules.profiler.v2.features.MethodsFeature@</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SETTINGS_FLAG">true</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_MODE_FLAG">SelectedMethodsMode</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedMethodsMode_OUTGOING_CALLS_FLAG">65</entry>
+</properties>
